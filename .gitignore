@@ -1,0 +1,16 @@
+# Data (download separately — see README)
+data/
+Data/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db

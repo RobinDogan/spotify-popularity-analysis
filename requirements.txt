@@ -1,0 +1,8 @@
+# Predicting Spotify Song Popularity from Audio Features
+# Python 3.10+ recommended
+pandas
+numpy
+scikit-learn
+xgboost
+matplotlib
+seaborn
